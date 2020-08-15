@@ -19,21 +19,23 @@ div#container {
   font-family: Calibri;
   font-size: 15px bold;
   position: absolute;
-  right: 10px;
+  right: 11px;
+  top:1px;
+
 
 }
 
 #p2 {
   background-color: #add8e6;
-  border: 3px solid black;
+  border: 1px solid black;
   text-align: bottom;
   margin-right: auto;
   margin-left: auto;
   width: 95%;
-  height: 100px;
+  height: 115px;
   font-family: Calibri;
   font-size: 15px bold;
-  padding: 15px;
+  padding: 20px;
 }
 
 #p3 {
@@ -45,7 +47,8 @@ div#container {
   font-size: 15px bold;
   padding: 0;
   position: absolute;
-  right: 10px;
+  right: 11px;
+  top:1px;
 
 }
 
@@ -57,7 +60,8 @@ div#container {
   font-family: Calibri;
   font-size: 15px bold;
   position: absolute;
-  right: 10px;
+  right: 11px;
+  top:1px;
 
 }
 
