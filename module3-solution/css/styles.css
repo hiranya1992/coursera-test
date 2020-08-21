@@ -1,0 +1,51 @@
+
+#header-nav {
+  background-color: #BEBEBE;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: Comic Sans MS, cursive, sans-serif;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #787878;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* HOME PAGE */
+.container h1 {
+ 	font-family: Comic Sans MS, cursive, sans-serif;
+}
+.container section {
+ 	font-family: Comic Sans MS, cursive, sans-serif;
+ 	background: #E7E7E7
+}
+.container h2 {
+ 	font-family: Comic Sans MS, cursive, sans-serif;
+ 	font-size: 1.5em;
+}
