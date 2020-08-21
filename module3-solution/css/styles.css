@@ -37,6 +37,13 @@
   clear: both;
   margin-top: -30px;
 }
+
+@media (max-width: 767px) {
+  .container section {
+  margin-left: 20px;
+
+}
+  }
 /* HOME PAGE */
 .container h1 {
  	font-family: Comic Sans MS, cursive, sans-serif;
