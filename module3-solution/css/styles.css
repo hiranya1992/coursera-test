@@ -43,7 +43,9 @@
 }
 .container section {
  	font-family: Comic Sans MS, cursive, sans-serif;
- 	background: #E7E7E7
+ 	background: #E7E7E7;
+  width: 100%
+
 }
 .container h2 {
  	font-family: Comic Sans MS, cursive, sans-serif;
